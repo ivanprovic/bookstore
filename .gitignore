@@ -2,5 +2,6 @@
 .idea
 /.idea/
 /bookstore/migrations
+/accounts/migrations
 __pycache__/
 db.sqlite3
