@@ -1,5 +1,5 @@
 # bookstore
-Project bookstore from a book listed below
+Project bookstore from a book listed below! 
 
 https://wsvincent.gumroad.com/l/wryQH
 
